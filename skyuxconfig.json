@@ -15,5 +15,8 @@
     "unit": {
       "browserSet": "paranoid"
     }
+  },
+  "help": {
+    "productId": "renxt"
   }
 }
